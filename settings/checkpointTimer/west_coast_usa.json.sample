@@ -1,0 +1,25 @@
+{
+  "level": "west_coast_usa",
+  "updatedAt": "2026-07-02 01:20:00",
+  "routes": {
+    "Highway_Sprint": {
+      "name": "Highway_Sprint",
+      "start": { "x": -300, "y": 50, "z": 200 },
+      "checkpoints": [
+        { "x": 100, "y": 55, "z": 250 },
+        { "x": 500, "y": 52, "z": 220 },
+        { "x": 900, "y": 48, "z": 180 }
+      ],
+      "finish": { "x": 1300, "y": 45, "z": 150 }
+    },
+    "City_Loop": {
+      "name": "City_Loop",
+      "start": { "x": 200, "y": 30, "z": -100 },
+      "checkpoints": [
+        { "x": 350, "y": 32, "z": 50 },
+        { "x": 200, "y": 35, "z": 200 }
+      ],
+      "finish": { "x": 200, "y": 30, "z": -100 }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Checkpoint Timer",
+  "author": "danya",
+  "version": "3.0",
+  "description": "BeamNG.drive checkpoint timer. Map markers on minimap, ground circles (debugDrawer), per-map routes, split timing.",
+  "dependencies": []
+}

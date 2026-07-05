@@ -1,0 +1,7 @@
+{
+  "_comment": "CheckpointTimer — глобальные настройки. Бо́льшая часть состояния управляется из Lua (M.state). Этот файл оставлен для совместимости и будущих расширений.",
+  "triggerRadius": 5.0,
+  "triggerCheckHz": 20,
+  "maxHistory": 50,
+  "showTriggerZones": true
+}
